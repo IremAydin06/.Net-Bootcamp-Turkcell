@@ -33,10 +33,5 @@ namespace BMI_04012021
 
             Console.ReadLine();
         }
-
-        private static void NewMethod()
-        {
-            Console.WriteLine("Boyunuzu Giriniz:");
-        }
     }
 }
